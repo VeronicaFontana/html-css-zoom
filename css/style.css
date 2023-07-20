@@ -61,7 +61,7 @@ button{
 
 .user-name{
   color: white;
-  background-color: rgba(203, 195, 195, 0.54);
+  background-color: rgba(140, 134, 134, 0.655);
   padding: 5px;
   font-size: 0.8rem;
   position: absolute;
@@ -136,5 +136,8 @@ footer{
   text-align: center;
   padding: 25px 0;
   width: 100px;
-  font
+}
+
+.exit-text span{
+  text-shadow: 1px 1px grey;
 }
